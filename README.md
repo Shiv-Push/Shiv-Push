@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pushkar
-- 👀 I’m interested in Linux, Cloud Computiong, NFVI, Python, HTML, CSS.
-- 🌱 I’m currently learning Linux and Python
+- 👀 I’m interested in Linux, Cloud Native, K8's and Python.
+- 🌱 I’m currently learning Python and DevOps Concepts
 - 💞️ I’m looking to collaborate in development or deployment pojects
 - 📫 How to reach me: pushkardwivedi2014@gmail.com
 
